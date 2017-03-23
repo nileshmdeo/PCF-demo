@@ -3,7 +3,7 @@ applications:
 - name: nhcsalesnilesh
   memory: 512M
   instances: 4
-  host: nhcsalesmo
+  host: nhcsalesnilesh
   path: ./target/pcfdemo.war
  
 
